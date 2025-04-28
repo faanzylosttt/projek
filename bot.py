@@ -3,7 +3,7 @@ import os
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
-BOT_TOKEN = "7837072590:AAFtIrE2PcCN4afhybGYCLKGqIHo0wKgL4U"
+BOT_TOKEN = "7847987165:AAExaFfM8F2eWgJc_0TG8k3xx3uiQKAOZxE"
 
 MENU_FILE = "menu.json"
 
